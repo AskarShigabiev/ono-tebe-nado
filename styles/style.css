@@ -284,7 +284,6 @@
 .footer { 
   display: flex;
   justify-content: space-between;
-
   width: 1052px;
   height: 97px;
   margin: 180px auto 80px;
