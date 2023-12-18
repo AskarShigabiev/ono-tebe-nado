@@ -281,7 +281,7 @@
   line-height: 23px;
 }
 
-.footer { 
+.footer {
   display: flex;
   justify-content: space-between;
   width: 1052px;
